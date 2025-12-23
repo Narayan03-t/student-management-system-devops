@@ -40,4 +40,4 @@ The project demonstrates:
 
 ## Author
 Tek Narayan Yadav  
-B.Tech CSE (3rd Year)
+B.Tech CSE 
