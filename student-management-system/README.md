@@ -33,10 +33,35 @@ The project demonstrates:
 - service: Business logic
 - app: Main application
 
+
+
+## ⚙️ Maven Lifecycle
+Maven follows these phases:
+
+1. validate
+2. compile
+3. test
+4. package
+5. install
+6. deploy
+
+Command used:
+bash
+mvn clean install
+
+
+
 ## How to Run
 1. Import project into Eclipse
 2. Run `StudentManagementApp.java`
 3. Output will be shown in console
+
+
+ID | Name  | Dept | CGPA | Attendance | Backlogs | Assignment
+1  | Rahul | CSE  | 8.2  | 92         | 0        | Submitted
+
+
+
 
 ## Author
 Tek Narayan Yadav  
